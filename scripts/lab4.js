@@ -44,4 +44,6 @@ function discountPrices(prices, discount) {
     return discounted;
 }
 
+// fun times
+
 module.exports = {sumValues, discountPrices};
